@@ -7,4 +7,7 @@
 <!---
 JYJ-0605/JYJ-0605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->Hi I'm @JYJ-0605
+I'm interested in informtation security
+I'm currently learning about python and Information Communication Technology Theory.
+How to reach me? 2224065@v.kduniv.ac.kr email address. 
